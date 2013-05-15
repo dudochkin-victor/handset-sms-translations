@@ -1,0 +1,7 @@
+[main]
+host = https://meego.transifex.net
+
+[meego-handset.meego-handset-sms]
+file_filter = sms_<lang>.ts
+source_lang = en
+
